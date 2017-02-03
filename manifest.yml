@@ -1,0 +1,6 @@
+---
+applications:
+- name: srini-spring-cloud-configuration-client
+  memory: 512M
+  instances: 1
+  random-route: true
